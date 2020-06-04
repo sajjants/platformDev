@@ -1,0 +1,5 @@
+<apex:page >
+  <apex:pageblock >
+      <apex:pageMessage summary="Validaton messages appear in the page messages component. This page message will always disappear" severity="warning" strength="3"></apex:pageMessage>
+  </apex:pageblock>
+</apex:page>
